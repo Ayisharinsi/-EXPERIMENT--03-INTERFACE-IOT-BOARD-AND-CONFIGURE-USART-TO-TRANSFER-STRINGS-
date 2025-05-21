@@ -1,6 +1,4 @@
 
-###  DATE:
-
 ###  NAME: AYISHA RINSI K
 ###  ROLL NO : 212223040022
 ###  DEPARTMENT: B.E.CSE 
